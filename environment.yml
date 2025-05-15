@@ -1,0 +1,11 @@
+name: capsidize1_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9.18
+  - tensorflow
+  - opencv
+  - scikit-learn
+  - ipykernel
+  - pyinstaller
